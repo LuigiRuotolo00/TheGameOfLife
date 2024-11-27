@@ -5,7 +5,7 @@ A Python simulation of John Conway's Game of Life
 The Game of Life, created by mathematician John Conway, is a cellular automaton where simple rules determine the evolution of a grid of cells. Each cell can be alive or dead, and its state evolves over discrete time steps based on the states of its neighbors. This project provides an interactive Python implementation of the Game of Life, offering features such as adjustable grid sizes, simulation speed, and the ability to pause and resume the game.
 
 
-![Menu](images/mainnmenu.png)
+![Menu](images/mainmenu.png)
 
 ![Game](images/gamescreen.png)
 
