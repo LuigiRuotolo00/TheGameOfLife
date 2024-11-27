@@ -32,7 +32,7 @@ This project requires Python 3.8 or higher. Additionally, the following librarie
 1. Clone this repository.
    ```bash
    git clone https://github.com/LuigiRuotolo00/TheGameOfLife.git
-   cd game-of-life
+   cd TheGameOfLife
 2. Run the main script.
    ```bash
    python TheGameOfLife.py
